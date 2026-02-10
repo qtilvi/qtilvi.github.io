@@ -178,7 +178,7 @@ input[name="page"] {
 #articles-findings-etc-selector:checked ~ #articles-findings-etc {
     display: block;
 }
-#videos-music-creators-etc-selector:checked ~ #videos-music-creators-etc {
+#my-top-x-selector:checked ~ #my-top-x {
     display: block;
 }
 #featured-webbed-sites-selector:checked ~ #featured-webbed-sitess {
